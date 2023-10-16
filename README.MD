@@ -6,12 +6,12 @@ Are you tired of subpar 3D prints with inconsistent quality? Say hello to "Toast
 ## BOM
 
 | Item          | Amount | Comment   |
-| ------------- |  ----------|      | ----------|
+| ------------- |  ----------| ----------|
 | M2x2          |    2    | (Longer will work too) |
 | M2x3.5        |    1   | (Longer will work) |
 | Copper Heatbreak |   1     | (Bi-Metal)  |
 | Copper Heatbreak |   1     | (Bi-Metal)  |
-| Volcano Nozzle | 1 | |
+| Volcano Nozzle | 1 |        |
 
 ### BOM for different heatblock
 
